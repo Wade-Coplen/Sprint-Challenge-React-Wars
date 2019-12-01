@@ -3,5 +3,10 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-image: url('./sw-bg.jpg');
-  background-size: 100%contain
+  background-size: 100%contain;
 }
+/* .characterData {
+  display: flex;
+  border: 1px solid black;
+
+}  */
